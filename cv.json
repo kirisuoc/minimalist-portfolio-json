@@ -24,11 +24,6 @@
       "network": "GitHub",
       "username": "kirisuoc",
       "url": "https://github.com/kirisuoc"
-    },
-    {
-      "network": "Facebook",
-      "username": "kirisuoc",
-      "url": "https://github.com/kirisuoc"
     }
   ]
   },
@@ -50,16 +45,6 @@
     "startDate": "2022-04-13",
     "endDate": "2024-11-09",
     "summary": "Atención de los huéspedes, gestión de reservas, check-in/check-out, atención telefónica y vía mail, pagos y facturación, coordinación con el resto de departamentos involucrados para asegurar una experiencia fluida para los huéspedes.",
-    "highlights": [
-      "Started the company"
-    ]
-  },
-  {
-    "name": "Hubii",
-    "position": "Senior FrontEnd Developer",
-    "startDate": "2011-03-01",
-    "endDate": "2016-05-01",
-    "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
     "highlights": [
       "Started the company"
     ]
@@ -109,86 +94,23 @@
   "skills": [
       {
         "name": "HTML",
-        "level": "Master",
+        "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend"
         ]
       },
       {
         "name": "CSS",
-        "level": "Master",
+        "level": "Intermedio",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
         ]
       },
       {
         "name": "JavaScript",
-        "level": "Master",
+        "level": "Principiante",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-        ]
-      },
-      {
-        "name": "Tailwind",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "TypeScript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-        ]
-      },
-      {
-        "name": "Node",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-        ]
-      },
-      {
-        "name": "MySQL",
-        "level": "Avanzado",
-        "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-        ]
-      },
-      {
-        "name": "Git",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente"
-        ]
-      },
-      {
-        "name": "GitHub",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-        ]
-      },
-      {
-        "name": "Next.js",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-        ]
-      },
-      {
-        "name": "React",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-        ]
-      },
-      {
-        "name": "Comunicación",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
         ]
       }
     ],
@@ -212,60 +134,35 @@
   }],
   "projects": [
     {
-    "name": "mars.codes",
+    "name": "project-erik",
     "isActive": true,
-    "description": "Historia interactiva con retos de programación para viajar a Marte",
+    "description": "Calendario anual para monitorizar objetivos diarios durante 354 días.",
     "highlights": [
-      "Elige tu propia aventura",
+      "HTML",
+      "CSS",
+      "Chat GPT",
       "En desarrollo"
     ],
-    "url": "https://mars.codes"
+    "url": "https://projecterik.netlify.app"
   }, {
-    "name": "AdventJS",
+    "name": "Clon Landing Page Spotify Premium",
     "isActive": true,
-    "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+    "description": "Clon de la landing page de Spotify Premium para practicar CSS",
     "highlights": [
-      "+1 millón de visitas",
-      "Multidioma",
-      "JavaScript & TypeScript"
+      "HTML",
+      "CSS",
+      "En desarrollo",
+      "Próximamente en multidioma"
     ],
-    "url": "https://adventjs.dev"
+    "url": ""
   }, {
     "name": "Codember",
-    "isActive": true,
+    "isActive": false,
     "description": "Juego interactivo de programación con retos y secretos",
     "highlights": [
       "+2000 usuarios activos",
       "Retos para cualquier lenguaje"
     ],
     "url": "https://codember.dev"
-  }, {
-    "name": "codi.link",
-    "isActive": true,
-    "description": "Playground de código HTML, CSS y JavaScript para compartir",
-    "highlights": [
-      "100k visitas al mes",
-      "Desarrollado por la comunidad"
-    ],
-    "url": "https://codi.link",
-    "github": "https://github.com/midudev/codi.link"
-  }, {
-    "name": "Pruebas Técnicas",
-    "isActive": true,
-    "description": "Lista de pruebas técnicas de empresas para practicar programación",
-    "highlights": [
-      "100% gratuito",
-      "+500 soluciones de la comunidad"
-    ],
-    "url": "https://pruebastecnicas.com",
-    "github": "https://github.com/midudev/codi.link"
-  }, {
-    "name": "miduConf",
-    "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-    "highlights": [
-      "+15k tickets repartidos",
-      "+50k espectadores en directo"
-    ],
-    "url": "https://miduconf.com"
   }]
 }
