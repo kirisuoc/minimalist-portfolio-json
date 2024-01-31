@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Erik Cousillas Fernández",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Desarrollador Web en Ascenso | Experiencia en Hospitality | HTML, CSS, JavaScript | Compromiso con la Innovación Digital.",
     "image": "/me.jpg",
-    "email": "cousillas@gmail.com",
-    "phone": "+34 688888888",
+    "email": "erikcousillas@icloud.com",
+    "phone": "+34 610505278",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Actualmente en una emocionante fase de transición hacia el desarrollo web. Mi objetivo a corto plazo es dominar las tecnologías fundamentales como HTML, CSS y JavaScript, con la visión de convertirme en un Frontend Developer y aspirar a roles más completos como Full Stack Developer en el futuro.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -17,39 +17,39 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "erikcousillas",
+        "url": "https://linkedin.com/in/erikcousillas"
       },
       {
       "network": "X",
       "username": "midudev",
-      "url": "https://x.com/midudev"
+      "url": "https://x.com/"
     },
     {
       "network": "GitHub",
-      "username": "midudev",
-      "url": "https://github.com/midudev"
+      "username": "kirisuoc",
+      "url": "https://github.com/kirisuoc"
     }
   ]
   },
   "work": [{
-    "name": "midudev",
-    "position": "Divulgador sobre Programación Web",
-    "url": "https://twitch.tv/midudev",
-    "startDate": "2021-01-01",
+    "name": "Europcar",
+    "position": "Rental Agent",
+    "url": "https://twitch.tv/",
+    "startDate": "2024-02-01",
     "endDate": null,
-    "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+    "summary": "Atención al cliente. Formalización de contratos de alquiler de vehículos. Entrega y devolución de vehículos. Resolución de incidencias. Gestión de flota.",
     "highlights": [
       "Started the company"
     ]
   },
   {
-    "name": "Adevinta",
-    "position": "Lead Frontend Architect",
-    "url": "https://twitch.tv/midudev",
-    "startDate": "2016-06-01",
-    "endDate": "2022-09-01",
-    "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+    "name": "H10 Hotels",
+    "position": "Recepcionista",
+    "url": "https://twitch.tv/",
+    "startDate": "2022-04-13",
+    "endDate": "2024-11-09",
+    "summary": "Atención de los huéspedes, gestión de reservas, check-in/check-out, atención telefónica y vía mail, pagos y facturación, coordinación con el resto de departamentos involucrados para asegurar una experiencia fluida para los huéspedes.",
     "highlights": [
       "Started the company"
     ]
